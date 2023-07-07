@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/26d86925367c493a895d81986144d8b3/artifacts
+deleted_time: 1686971461588
+end_time: 1686971123848
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: deleted
+run_id: 26d86925367c493a895d81986144d8b3
+run_name: peaceful-midge-769
+run_uuid: 26d86925367c493a895d81986144d8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971120577
+status: 3
+tags: []
+user_id: veerpati

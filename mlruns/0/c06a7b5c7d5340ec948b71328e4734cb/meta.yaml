@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c06a7b5c7d5340ec948b71328e4734cb/artifacts
+end_time: 1688612284021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c06a7b5c7d5340ec948b71328e4734cb
+run_name: upbeat-deer-314
+run_uuid: c06a7b5c7d5340ec948b71328e4734cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688612262952
+status: 3
+tags: []
+user_id: veerpati

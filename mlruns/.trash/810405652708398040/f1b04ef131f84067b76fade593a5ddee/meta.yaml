@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/810405652708398040/f1b04ef131f84067b76fade593a5ddee/artifacts
+deleted_time: 1688695422956
+end_time: null
+entry_point_name: ''
+experiment_id: '810405652708398040'
+lifecycle_stage: deleted
+run_id: f1b04ef131f84067b76fade593a5ddee
+run_name: sincere-slug-886
+run_uuid: f1b04ef131f84067b76fade593a5ddee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688354846471
+status: 1
+tags: []
+user_id: veerpati

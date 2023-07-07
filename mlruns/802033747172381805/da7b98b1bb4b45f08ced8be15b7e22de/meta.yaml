@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/da7b98b1bb4b45f08ced8be15b7e22de/artifacts
+end_time: 1687102504164
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: active
+run_id: da7b98b1bb4b45f08ced8be15b7e22de
+run_name: auspicious-pig-80
+run_uuid: da7b98b1bb4b45f08ced8be15b7e22de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687102500742
+status: 3
+tags: []
+user_id: veerpati

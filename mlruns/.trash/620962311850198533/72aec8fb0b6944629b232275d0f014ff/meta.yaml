@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/620962311850198533/72aec8fb0b6944629b232275d0f014ff/artifacts
+deleted_time: 1686971080616
+end_time: 1686971027814
+entry_point_name: ''
+experiment_id: '620962311850198533'
+lifecycle_stage: deleted
+run_id: 72aec8fb0b6944629b232275d0f014ff
+run_name: burly-croc-464
+run_uuid: 72aec8fb0b6944629b232275d0f014ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971025142
+status: 3
+tags: []
+user_id: veerpati

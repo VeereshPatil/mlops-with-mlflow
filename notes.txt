@@ -1,0 +1,30 @@
+APIs
+mlflow.get_artifact_uri()
+mlflow.get_tracking_uri()
+
+mlflow.set_experiment("mlflow-demo")
+mlflow.log_param('myParam1',1)
+mlflow.log_param('myParam2',2)
+
+mlflow.start_run(run_name='ElasticNet')
+mlflow.log_param('alpha', alpha)
+mlflow.log_param('l1_ration', l1_ratio)
+mlflow.log_metric('rmse',rmse)
+mlflow.log_metric('mae', mae)
+mlflow.log_metric('r2', r2)
+
+Local file system
+mlflow server
+
+with server and minio
+
+export MLFLOW_S3_ENDPOINT_URL=<s3/minio api url>
+export AWS_ACCESS_KEY_ID=<key>
+export AWS_SECRET_ACCESS_KEY=<access>
+
+mlflow server --host 0.0.0.0 --port 5005 --default-artifact-root s3://demo
+
+%env MLFLOW_TRACKING_URI=http://localhost:5005
+%env MLFLOW_S3_ENDPOINT_URL=<s3/minio api url>
+%env AWS_ACCESS_KEY_ID=<key>
+%env AWS_SECRET_ACCESS_KEY=<access>

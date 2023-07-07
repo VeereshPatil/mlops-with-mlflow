@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/18765ab83f5042a098874a0e7b9fccea/artifacts
+end_time: 1686970896218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18765ab83f5042a098874a0e7b9fccea
+run_name: aged-elk-981
+run_uuid: 18765ab83f5042a098874a0e7b9fccea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686970896175
+status: 3
+tags: []
+user_id: veerpati

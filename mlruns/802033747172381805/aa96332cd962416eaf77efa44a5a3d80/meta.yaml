@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/aa96332cd962416eaf77efa44a5a3d80/artifacts
+end_time: 1686971472936
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: active
+run_id: aa96332cd962416eaf77efa44a5a3d80
+run_name: lyrical-mouse-435
+run_uuid: aa96332cd962416eaf77efa44a5a3d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971470076
+status: 3
+tags: []
+user_id: veerpati

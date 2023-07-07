@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/709000157454523107/a3a305898e5942419528963578077c7c/artifacts
+deleted_time: 1688613403966
+end_time: 1688613322162
+entry_point_name: ''
+experiment_id: '709000157454523107'
+lifecycle_stage: deleted
+run_id: a3a305898e5942419528963578077c7c
+run_name: linearRegression
+run_uuid: a3a305898e5942419528963578077c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688613245109
+status: 3
+tags: []
+user_id: veerpati

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/09991e136ea6463faf4f7aa2e0c4ee2b/artifacts
+end_time: 1686970971179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09991e136ea6463faf4f7aa2e0c4ee2b
+run_name: spiffy-worm-172
+run_uuid: 09991e136ea6463faf4f7aa2e0c4ee2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686970971141
+status: 3
+tags: []
+user_id: veerpati

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aed28f5d13324322baec464bc9684d6b/artifacts
+deleted_time: 1686970887873
+end_time: 1686970817185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aed28f5d13324322baec464bc9684d6b
+run_name: nimble-mule-867
+run_uuid: aed28f5d13324322baec464bc9684d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686970817137
+status: 3
+tags: []
+user_id: veerpati

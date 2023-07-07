@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3f8aa8d9655f4910b9e4d238557e990b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f8aa8d9655f4910b9e4d238557e990b
+run_name: respected-bird-234
+run_uuid: 3f8aa8d9655f4910b9e4d238557e990b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688607635816
+status: 1
+tags: []
+user_id: veerpati

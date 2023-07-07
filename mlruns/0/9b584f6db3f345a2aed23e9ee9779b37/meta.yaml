@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b584f6db3f345a2aed23e9ee9779b37/artifacts
+end_time: 1688612463984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b584f6db3f345a2aed23e9ee9779b37
+run_name: hell
+run_uuid: 9b584f6db3f345a2aed23e9ee9779b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688612340186
+status: 3
+tags: []
+user_id: veerpati

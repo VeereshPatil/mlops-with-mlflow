@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/620962311850198533/2017255508824aa08dc39b8b70f5729b/artifacts
+deleted_time: 1686971080616
+end_time: 1686971025130
+entry_point_name: ''
+experiment_id: '620962311850198533'
+lifecycle_stage: deleted
+run_id: 2017255508824aa08dc39b8b70f5729b
+run_name: unleashed-turtle-376
+run_uuid: 2017255508824aa08dc39b8b70f5729b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971025091
+status: 3
+tags: []
+user_id: veerpati

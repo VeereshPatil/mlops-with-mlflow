@@ -1,0 +1,15 @@
+artifact_uri: s3://demo/934440472076352033/2da91452055f4b76b95b5c85e2a80ca5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '934440472076352033'
+lifecycle_stage: active
+run_id: 2da91452055f4b76b95b5c85e2a80ca5
+run_name: spiffy-gnu-681
+run_uuid: 2da91452055f4b76b95b5c85e2a80ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688712075677
+status: 1
+tags: []
+user_id: veerpati

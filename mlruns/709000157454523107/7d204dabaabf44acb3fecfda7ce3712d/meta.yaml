@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/709000157454523107/7d204dabaabf44acb3fecfda7ce3712d/artifacts
+end_time: 1688614316653
+entry_point_name: ''
+experiment_id: '709000157454523107'
+lifecycle_stage: active
+run_id: 7d204dabaabf44acb3fecfda7ce3712d
+run_name: elasticmodelold
+run_uuid: 7d204dabaabf44acb3fecfda7ce3712d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688614289339
+status: 3
+tags: []
+user_id: veerpati

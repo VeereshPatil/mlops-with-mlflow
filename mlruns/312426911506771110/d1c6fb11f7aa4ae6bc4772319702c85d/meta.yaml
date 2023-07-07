@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/312426911506771110/d1c6fb11f7aa4ae6bc4772319702c85d/artifacts
+end_time: 1688711318901
+entry_point_name: ''
+experiment_id: '312426911506771110'
+lifecycle_stage: active
+run_id: d1c6fb11f7aa4ae6bc4772319702c85d
+run_name: suave-croc-239
+run_uuid: d1c6fb11f7aa4ae6bc4772319702c85d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688711085587
+status: 3
+tags: []
+user_id: veerpati

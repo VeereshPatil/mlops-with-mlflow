@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3cb0358b0eec49d5b81db2a601ba30bd/artifacts
+end_time: 1686970914571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb0358b0eec49d5b81db2a601ba30bd
+run_name: amusing-squirrel-183
+run_uuid: 3cb0358b0eec49d5b81db2a601ba30bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686970914523
+status: 3
+tags: []
+user_id: veerpati

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4a7ce95f7d0341c5876cdd7e09028f2e/artifacts
+deleted_time: 1686970887872
+end_time: 1686970744985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a7ce95f7d0341c5876cdd7e09028f2e
+run_name: languid-wren-239
+run_uuid: 4a7ce95f7d0341c5876cdd7e09028f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686970744945
+status: 3
+tags: []
+user_id: veerpati

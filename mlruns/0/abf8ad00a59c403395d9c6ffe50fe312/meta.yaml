@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/abf8ad00a59c403395d9c6ffe50fe312/artifacts
+end_time: 1688612321568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf8ad00a59c403395d9c6ffe50fe312
+run_name: aged-hare-932
+run_uuid: abf8ad00a59c403395d9c6ffe50fe312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688612313546
+status: 3
+tags: []
+user_id: veerpati

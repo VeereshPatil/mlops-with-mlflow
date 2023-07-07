@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/551002327691236913/dc1635d6028e4c129245ac7b2ed2b3a1/artifacts
+deleted_time: 1688695414733
+end_time: null
+entry_point_name: ''
+experiment_id: '551002327691236913'
+lifecycle_stage: deleted
+run_id: dc1635d6028e4c129245ac7b2ed2b3a1
+run_name: deletemodel
+run_uuid: dc1635d6028e4c129245ac7b2ed2b3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688695150559
+status: 1
+tags: []
+user_id: veerpati

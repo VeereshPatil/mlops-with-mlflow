@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6835fb41ad7b4ec58f9075d5b0fbb507/artifacts
+end_time: 1688612308555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6835fb41ad7b4ec58f9075d5b0fbb507
+run_name: incongruous-gnat-747
+run_uuid: 6835fb41ad7b4ec58f9075d5b0fbb507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688612293384
+status: 3
+tags: []
+user_id: veerpati

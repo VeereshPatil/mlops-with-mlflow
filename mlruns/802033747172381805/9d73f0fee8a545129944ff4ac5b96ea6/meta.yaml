@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/9d73f0fee8a545129944ff4ac5b96ea6/artifacts
+deleted_time: 1686971461575
+end_time: 1686971219023
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: deleted
+run_id: 9d73f0fee8a545129944ff4ac5b96ea6
+run_name: judicious-donkey-762
+run_uuid: 9d73f0fee8a545129944ff4ac5b96ea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971216231
+status: 3
+tags: []
+user_id: veerpati

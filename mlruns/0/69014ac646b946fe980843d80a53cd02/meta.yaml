@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/69014ac646b946fe980843d80a53cd02/artifacts
+end_time: 1688695119012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69014ac646b946fe980843d80a53cd02
+run_name: deletemodel
+run_uuid: 69014ac646b946fe980843d80a53cd02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688695019986
+status: 3
+tags: []
+user_id: veerpati

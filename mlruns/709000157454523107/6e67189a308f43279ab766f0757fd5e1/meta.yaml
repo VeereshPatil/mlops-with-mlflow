@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/709000157454523107/6e67189a308f43279ab766f0757fd5e1/artifacts
+deleted_time: 1688614204121
+end_time: null
+entry_point_name: ''
+experiment_id: '709000157454523107'
+lifecycle_stage: deleted
+run_id: 6e67189a308f43279ab766f0757fd5e1
+run_name: elasticnetmodelold
+run_uuid: 6e67189a308f43279ab766f0757fd5e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688613835983
+status: 1
+tags: []
+user_id: veerpati

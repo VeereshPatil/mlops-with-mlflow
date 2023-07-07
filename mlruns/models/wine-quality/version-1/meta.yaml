@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687921046621
+current_stage: Production
+description: ''
+last_updated_timestamp: 1688615147856
+name: wine-quality
+run_id: fdae9d8d645d41e1bab082d17b28f92b
+run_link: ''
+source: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/fdae9d8d645d41e1bab082d17b28f92b/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

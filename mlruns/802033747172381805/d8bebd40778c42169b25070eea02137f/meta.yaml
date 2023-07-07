@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/d8bebd40778c42169b25070eea02137f/artifacts
+end_time: 1687102661333
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: active
+run_id: d8bebd40778c42169b25070eea02137f
+run_name: receptive-crow-704
+run_uuid: d8bebd40778c42169b25070eea02137f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687102658198
+status: 3
+tags: []
+user_id: veerpati

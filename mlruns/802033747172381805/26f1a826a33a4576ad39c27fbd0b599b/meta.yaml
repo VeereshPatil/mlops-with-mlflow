@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/26f1a826a33a4576ad39c27fbd0b599b/artifacts
+deleted_time: 1686971461594
+end_time: 1686971120562
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: deleted
+run_id: 26f1a826a33a4576ad39c27fbd0b599b
+run_name: stylish-calf-763
+run_uuid: 26f1a826a33a4576ad39c27fbd0b599b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971120514
+status: 3
+tags: []
+user_id: veerpati

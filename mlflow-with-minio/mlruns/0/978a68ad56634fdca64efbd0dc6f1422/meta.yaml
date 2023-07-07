@@ -1,0 +1,15 @@
+artifact_uri: s3://demo/0/978a68ad56634fdca64efbd0dc6f1422/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 978a68ad56634fdca64efbd0dc6f1422
+run_name: suave-gull-290
+run_uuid: 978a68ad56634fdca64efbd0dc6f1422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688442302318
+status: 1
+tags: []
+user_id: veerpati

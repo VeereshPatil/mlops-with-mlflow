@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/veerpati/mlflow/mlruns/312426911506771110/cbe720915fae461aa6fc8f98e4178aea/artifacts
+end_time: 1688711555419
+entry_point_name: ''
+experiment_id: '312426911506771110'
+lifecycle_stage: active
+run_id: cbe720915fae461aa6fc8f98e4178aea
+run_name: newEN
+run_uuid: cbe720915fae461aa6fc8f98e4178aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688711318928
+status: 3
+tags: []
+user_id: veerpati

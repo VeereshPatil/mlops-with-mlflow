@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/b64a79685eaa4feeb624a02e0a410af7/artifacts
+deleted_time: 1686971461599
+end_time: 1686971086648
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: deleted
+run_id: b64a79685eaa4feeb624a02e0a410af7
+run_name: amazing-bat-184
+run_uuid: b64a79685eaa4feeb624a02e0a410af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686971086574
+status: 3
+tags: []
+user_id: veerpati

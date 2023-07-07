@@ -1,0 +1,15 @@
+artifact_uri: s3://demo/0/cda57b7687ea4c00a2f76a35bddb7a12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda57b7687ea4c00a2f76a35bddb7a12
+run_name: able-pig-118
+run_uuid: cda57b7687ea4c00a2f76a35bddb7a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688461469545
+status: 1
+tags: []
+user_id: veerpati

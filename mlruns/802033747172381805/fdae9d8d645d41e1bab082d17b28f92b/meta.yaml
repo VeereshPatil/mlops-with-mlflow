@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/veerpati/mlflow/mlruns/802033747172381805/fdae9d8d645d41e1bab082d17b28f92b/artifacts
+end_time: 1687102730796
+entry_point_name: ''
+experiment_id: '802033747172381805'
+lifecycle_stage: active
+run_id: fdae9d8d645d41e1bab082d17b28f92b
+run_name: serious-smelt-248
+run_uuid: fdae9d8d645d41e1bab082d17b28f92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687102727979
+status: 3
+tags: []
+user_id: veerpati
